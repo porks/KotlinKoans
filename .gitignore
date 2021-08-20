@@ -12,4 +12,8 @@ Generics/*/build/
 .gradle/7.1/fileHashes/fileHashes.lock
 .gradle/buildOutputCleanup/buildOutputCleanup.lock
 .gradle/buildOutputCleanup/outputFiles.bin
+.gradle/buildOutputCleanup/cache.properties
+util/build/kotlin/compileKotlin/build-history.bin
+util/build/kotlin/compileKotlin/last-build.bin
+
 
