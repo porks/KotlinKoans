@@ -1,6 +1,10 @@
 Introduction/*/build/
 Classes/*/build/
 Conventions/*/build/
+Collections/*/build/
+Properties/*/build/
+Builders/*/build/
+Generics/*/build/
 
 .gradle/7.1/executionHistory/executionHistory.bin
 .gradle/7.1/executionHistory/executionHistory.lock
